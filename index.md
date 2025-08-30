@@ -8,6 +8,19 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
+
+# The graded part? (Apparently)
+
+# Mehmet's First CS193 Homework
+
+### My favorite things about CS 193
+- The classes are chill
+- The homeworks aren't too hard
+- GPA Boost!
+- I'm going to learn important tools, like github _properly_ now
+
+  `wow this is an inline markdown comment`
+
 ```markdown
 Syntax highlighted code block
 
